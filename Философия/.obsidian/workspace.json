@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "fd774751e9e53fae",
+    "type": "split",
+    "children": [
+      {
+        "id": "a36b8f482b4a18d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8775be8198444867",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled 1.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "cfb37815cfcd1b1d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "452c819766ac1e91",
+    "type": "split",
+    "children": [
+      {
+        "id": "7988804bd83fd086",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a81abdb5f24c4e09",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "825edaf5bb2889f9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "08a859267a0a740b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "19302b89f06ef9d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "77e499076b71de28",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8381712dee4461f8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled 1.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "65f19e905cd5c2e9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled 1.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7951a0e319ffd8d3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6bfaedf3ff9efa23",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled 1.canvas"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8775be8198444867",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "У кого или чего вообще есть чувства и восприятие?.md",
+    "Какова связь между мозгом и сознанием?.md",
+    "Является ли наше сознание чем-то отличным от мозга, или же оно и есть мозг?.md",
+    "Есть ли ещё сознания кроме нашего?.md",
+    "Может ли инстинктивное понимание быть подлинным знанием?.md",
+    "Имеет ли вообще сходство моё восприятие и восприятие других людей?.md",
+    "Совпадает ли наш собственный внутренний опыт с опытом других людей?.md",
+    "Что значит существовать?.md",
+    "Нужно ли вообще искать доказательства реальности мира?.md",
+    "Существовал ли я в прошлом?.md",
+    "Почему в головах людей всё ещё возникают философские  вопросы?.md",
+    "Откуда мы знаем то, что знаем?.md",
+    "Для чего нужна философия?.md",
+    "Допустимо ли верить в существование реального мира без действительных этому доказательств?.md",
+    "Справедлива ли двойственность мироощущения? Имеет ли смысл разложение чувств на физическую и ментальную составляющую?.md",
+    "Не является ли действительность сном?.md",
+    "Существует ли реальный мир?.md",
+    "Будем ли мы после воскрешения всё ещё оставаться нами?.md",
+    "Нейросети и человек.md",
+    "Как исправить неравенство?.md",
+    "Где находится образ предмета, в сознании или снаружи?.md",
+    "Важно ли мне ощущение значимости?.md",
+    "Каково моё отношение к Богу как к конечной инстанции объяснения чего-либо?.md",
+    "Что из того, что жизнь в глобальном контексте смысла не имеет?.md",
+    "Что имеет значение для меня?.md"
+  ]
+}
